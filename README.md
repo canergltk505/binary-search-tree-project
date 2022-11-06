@@ -11,4 +11,4 @@ root için 4'ü seçelim
                          6
 ```
 
-[patika.dev](https://app.patika.dev/sign-up)
+[patika.dev](https://app.patika.dev/canergltk)
